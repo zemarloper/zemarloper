@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field thus far.
 
-# Tableau
+# Python EDA + Tableau
 
 | Project Link | Project Description |
 |---|---|
